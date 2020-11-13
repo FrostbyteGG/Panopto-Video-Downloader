@@ -22,6 +22,7 @@
 			"matches": [
 			"*://*.panopto.eu/*",
 			"*://*.panopto.com/*"
+			"*://*.panopto.ieu.edu.tr/*"
 			],
 			"js": ["payload.js"]
 		}
